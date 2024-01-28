@@ -1,0 +1,1 @@
+export const Cookie_Name="auth_token"
